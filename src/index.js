@@ -13,7 +13,7 @@ class App extends Component {
     super(props);
 
     registerScreens();
-    this.startApp('Screen1');
+    this.startApp('GamesAnimationList');
   }
 
   startApp = (screen) => {
